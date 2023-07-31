@@ -1,0 +1,7 @@
+jenkinsURL: "http://your-jenkins-url"
+username: "your-username"
+token: "your-api-token"
+jobs:
+  - "Job1"
+  - "Job2"
+  - "Job3"
